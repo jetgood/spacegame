@@ -258,6 +258,9 @@ def main_loop():
         elif action == 'play':
             action = game_loop()
 
+    print("dhhdhdhd")
+
     pygame.quit()
 
 main_loop()
+
